@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://dev.to/shashanksing7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shashanksing7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashank singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank singh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shashank-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shashank-singh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10937527/shashank-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10937527/shashank-singh" height="30" width="40" /></a>
 <a href="https://medium.com/@2020831384.shashank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@2020831384.shashank" height="30" width="40" /></a>
 </p>
 
